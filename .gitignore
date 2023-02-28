@@ -31,5 +31,5 @@ build/
 
 ### VS Code ###
 .vscode/
-src/main/java/com/imcode/bookcatalog/security/SecurityConfig.java
-src/main/resources/application.yml
+/src/main/java/com/imcode/bookcatalog/security/SecurityConfig.java
+/src/main/resources/application.yml
